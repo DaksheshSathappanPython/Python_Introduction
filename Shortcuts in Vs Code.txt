@@ -1,0 +1,53 @@
+Shortcuts in Vs-Code:-
+
+
+1) If you want to paste the same thing below
+     alt + shift + down arrow key
+
+2) To delete a single line , without selecting it.
+   ctrl + x
+
+
+3) For undo , getting the same thing back
+   ctrl + z
+
+
+4) To make the changes at mutliple places or positions
+   Keep the cursor were u want to make the change and 
+   continously press the 'alt' button then keep the cursor
+   and keep the cursor at remaining places were u want to 
+   make the changes.
+
+   When the changes are made/done. Then press escape 'esc' button.
+
+
+5) In terminal window , to clear everything or the past output.
+
+   type 'cls'in the terminal window.
+
+
+6) To hide or open the terminal window 
+
+   ctrl ~    ( ctrl + ~ (tilt button))
+
+7) to keep single line comment or to remove single line comment
+  
+   ctrl /   ( ctrl + / (forward slash))
+
+8) to go to next line at the starting point
+
+   ctrl + enter
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
